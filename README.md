@@ -15,7 +15,6 @@ This project was developed as part of my undergraduate research to analyze the r
 - Pandas
 - NumPy
 - SciPy
-- Matplotlib
 - Microsoft Excel
 
 ## Repository Contents
