@@ -17,6 +17,20 @@ This project was developed as part of my undergraduate research to analyze the r
 - SciPy
 - Microsoft Excel
 
+## Skills Demonstrated
+
+- Data Collection
+- Data Cleaning
+- Data Analysis
+- ANOVA
+- Python Programming
+- Statistical Analysis
+- Research Documentation
+
+## Results
+
+The survey data was successfully analyzed using Python. ANOVA was performed using SciPy, and the results obtained through Python were consistent with the manual statistical calculations, validating the analysis.
+
 ## Repository Contents
 - ANOVA.py
 - AI Cognitive Thinking Survey Data.csv (Anonymized)
